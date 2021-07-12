@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "slimecoin:gold_slimecoin"}
+  ],
+  "result": {
+    "item": "slimecoin:silver_slimecoin",
+    "count": 4
+  }
+}

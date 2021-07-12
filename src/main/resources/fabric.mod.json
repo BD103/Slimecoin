@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "slimecoin",
+  "version": "${version}",
+
+  "name": "Slimecoin",
+  "description": "Slimecoin adds a simple currency system that is based on diamonds.",
+  "authors": ["BD103"],
+  "contact": {
+    "homepage": "https://bd103.thedev.id/",
+    "sources": "https://github.com/BD103/Slimecoin"
+  },
+
+  "license": "Apache-2.0",
+  "icon": "assets/slimecoin/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "id.thedev.bd103.slimecoin.Slimecoin"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  }
+}

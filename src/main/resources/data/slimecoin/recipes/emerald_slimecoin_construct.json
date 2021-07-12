@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "slimecoin:diamond_slimecoin"
+    }
+  },
+  "result": {
+    "item": "slimecoin:emerald_slimecoin",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "slimecoin:crystal_slimecoin"}
+  ],
+  "result": {
+    "item": "slimecoin:emerald_slimecoin",
+    "count": 4
+  }
+}
